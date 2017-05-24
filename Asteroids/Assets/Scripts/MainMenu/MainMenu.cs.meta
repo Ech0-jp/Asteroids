@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7015555a782f2a74eaa02c67c7cbe5c0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - asteroidsGUISkin: {instanceID: 0}
+  - help_playerTexture: {fileID: 2800000, guid: 00b4cf71f3daaf54e93659abbdc7190d,
+      type: 3}
+  - help_enemyTexture: {fileID: 2800000, guid: 27e6c04aeef4a884eba608e36ff999dd, type: 3}
+  - help_fullHealTexture: {fileID: 2800000, guid: f75982ccf78f83440b2acf0be7ccb40f,
+      type: 3}
+  - help_partialHealTexture: {fileID: 2800000, guid: 7362d4c9a8887f54caf0e1a97f2160e1,
+      type: 3}
+  - help_asteroidTexture: {fileID: 2800000, guid: 88ebacef3c02b4948b80036e2a9616ca,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
